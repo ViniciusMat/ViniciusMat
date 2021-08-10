@@ -15,4 +15,3 @@ Sou estudante de Sistemas de Informacão 🐱‍💻 Fanatico por Seguranca da i
  <a href="https://www.instagram.com/vinicius.matt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 
-### 🐱‍👤sistema seguro é aquele que não esta inseguro!🤝
